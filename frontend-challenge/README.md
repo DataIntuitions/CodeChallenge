@@ -1,7 +1,12 @@
 # Tennis-UI-Demo
 **clone the repo
-# open frontend-challenge
+# open frontend-challenge Folder
 #  then open terminal
+# Install react/npm if not
+```
+npm install
+```
+# Run below commands
 ```
 npm create-react-app .
 npm install react-router-dom
