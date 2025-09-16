@@ -1,5 +1,5 @@
+# clone the repo
 
-**clone the repo
 # open frontend-challenge Folder
   then open terminal
 # Install react/npm if not
